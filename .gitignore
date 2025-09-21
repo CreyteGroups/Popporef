@@ -1,6 +1,5 @@
 node_modules/
 .env
-db.json
 backups/
 .DS_Store
 Thumbs.db
